@@ -1,24 +1,28 @@
-<!-- Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=✨+Hi%2C+I'm+Tshepang Lechaba;💻+Multi-Media+Developer;🚀+Building+cool+stuff;⚡+Code.+Create.+Repeat." alt="Typing SVG" />
-</p>
+<h1>Hi there, I'm <a href="">Tshepang Lechaba</a>👋</h1>
 
-<!-- Animated Gradient Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Let's%20build%20something%20awesome&descAlign=50&descAlignY=55" />
-</p>
+I am Final year student in Cape Peninsula University of 
+Technology doing Information Communication Technology 
+Specializing in Multimedia, with Strong skills in Web 
+Development, UI/UX Design and databases. 
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Interested+in+Research+and+Development;Loves+Working+on+Financial+and+Healthcare+Usecases)](https://git.io/typing-svg)
+
+ * You can find me on [LinkedIn](https://www.linkedin.com/in/tshepwww.linkedin.com/in/ang-lechaba-b26492385) and do follow me :)
+ * 💬 Ask me about Web Development, UI/UX design and Databases. 
 
 ## 👨‍💻 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Tshepang Lechaba"
-        self.role = "Web development"
-        self.location = "Cape Town"
-        self.hobbies = ["Coding", "Open Source", "Gaming", "Coffee ☕"]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! 🙌")
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍-Based_in_Cape_Town-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼-Web_Development-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌱-Learning_Next.React-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚡-Fun_Fact:_solving_problems with_Technology-orange?style=flat-square" />
+</p>
+
+
+🔹 **Currently:** Building a Student Eats App
+🔹 **Learning:** React 
+🔹 **Looking for:** Collaboration on Web Development and UI/UX Design
+🔹 **Fun fact:** I love solving problems
+
+Let's build something awesome together 🚀
